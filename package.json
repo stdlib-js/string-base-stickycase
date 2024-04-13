@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-stickycase",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a string to sticky case.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,6 @@
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.1",
     "@stdlib/string-base-stickycase-lib": "github:stdlib-js/string-base-stickycase-lib#main",
-    "@stdlib/string-base-stickycase-package.json": "github:stdlib-js/string-base-stickycase-package.json#main",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
