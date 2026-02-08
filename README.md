@@ -46,6 +46,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+stickycase = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-stickycase/tags). For example,
+
+```javascript
 stickycase = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-umd/browser.js' )
 ```
 
@@ -58,7 +63,7 @@ var stickycase = require( 'path/to/vendor/umd/string-base-stickycase/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -107,7 +112,7 @@ out = stickycase( 'good morning', 0.8 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
