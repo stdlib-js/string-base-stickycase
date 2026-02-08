@@ -44,7 +44,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@deno/mod.js';
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-deno/mod.js';
 ```
 
 #### stickycase( str\[, p] )
@@ -80,7 +80,7 @@ out = stickycase( 'good morning', 0.8 );
 ## Examples
 
 ```javascript
-import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@deno/mod.js';
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-deno/mod.js';
 
 var str = 'Hello World!';
 var out = stickycase( str );
