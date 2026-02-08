@@ -44,6 +44,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-stickycase/tags). For example,
+
+```javascript
 import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-deno/mod.js';
 ```
 
@@ -80,7 +85,7 @@ out = stickycase( 'good morning', 0.8 );
 ## Examples
 
 ```javascript
-import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-deno/mod.js';
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@deno/mod.js';
 
 var str = 'Hello World!';
 var out = stickycase( str );
