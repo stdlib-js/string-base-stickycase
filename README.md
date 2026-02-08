@@ -44,7 +44,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@esm/index.mjs';
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-esm/index.mjs';
 ```
 
 #### stickycase( str\[, p] )
@@ -85,7 +85,7 @@ out = stickycase( 'good morning', 0.8 );
 <body>
 <script type="module">
 
-import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@esm/index.mjs';
+import stickycase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-stickycase@v0.1.1-esm/index.mjs';
 
 var str = 'Hello World!';
 var out = stickycase( str );
