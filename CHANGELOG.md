@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-26)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f9377d1`](https://github.com/stdlib-js/stdlib/commit/f9377d118f83e21ab08f81f142803a8b640ca6eb) - **docs:** update examples [(#13150)](https://github.com/stdlib-js/stdlib/pull/13150) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
